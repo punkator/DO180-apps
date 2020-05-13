@@ -7,5 +7,8 @@ app.get('/', function (req, res) {
 
 app.listen(8080, function () {
   console.log('Example app listening on port 8080!');
+  
+   console.log('SE AGREGA NUEVA FUNCIONALIDAD EN NODEJS EN LA RAMA CONSOLE');
+  
 });
 
