@@ -1,1 +1,1 @@
-This file is used to test the Git repo setup on the infrastructure machine.
+## se agrega readme en example para verificar POC en rama console
